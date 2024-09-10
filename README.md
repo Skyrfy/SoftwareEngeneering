@@ -112,7 +112,8 @@
 
 ## 12 Возвращение к предыдущему коммиту
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
+![image](https://github.com/user-attachments/assets/2f2171e9-06db-4b91-be7c-9fd43020448e)
+
 
 ### Выводы
 
