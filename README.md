@@ -87,8 +87,7 @@
 
 ## 9 Удаление файлов, веток, локальных и удалённых репозиториев
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/deleteBreanch.png)
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/pushDelete.png)
+![Меню](https://github.com/Skyrfy/SoftwareEngeneering/blob/a4f1e22a02b66748180f5d2f3eb1bd6351ed4ecb/images/image.png)
 
 ### Выводы
 
@@ -96,7 +95,7 @@
 
 ## 10 Отслеживание изменений в коммитах
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
+![Меню](https://github.com/Skyrfy/SoftwareEngeneering/blob/a4f1e22a02b66748180f5d2f3eb1bd6351ed4ecb/images/image.png)
 
 ### Выводы
 
