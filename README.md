@@ -63,7 +63,7 @@
 
 ## 6 Подключение к удаленному репозиторию
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/remote.png)
+![Меню](https://github.com/Skyrfy/SoftwareEngeneering/blob/81f6888172aa1a5a20624f6f736db94754d6ac6a/images/image.png)
 
 ### Выводы
 
