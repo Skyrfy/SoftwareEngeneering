@@ -103,7 +103,8 @@
 
 ## 11 Возвращение файла к предыдущему (определённому) состоянию
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/commit.png)
+![image](https://github.com/user-attachments/assets/33ccc5ff-627d-4c4e-9e89-2d92cefe7585)
+
 
 ### Выводы
 
