@@ -23,7 +23,7 @@
 
 ## 1 Установка
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/Тема_1/images/installGit.png)
+![Меню](https://github.com/Skyrfy/SoftwareEngeneering/blob/bab298f7da8c06d613f9a126eb5b021e191095bc/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-09-11%20013125.png)
 
 ### Выводы
 
