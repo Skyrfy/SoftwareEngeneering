@@ -127,7 +127,8 @@
 
 ## 14 Разрешение конфликтов при слиянии
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/merge.png)
+![image](https://github.com/user-attachments/assets/be22d764-a411-4d52-a3b8-eb7e1e5bf379)
+
 
 ### Выводы
 
@@ -135,7 +136,7 @@
 
 ## 15 Настройка gitignore
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/gitignore.png)
+![Снимок экрана 2024-09-11 040851](https://github.com/user-attachments/assets/1803c3dd-eace-4686-8656-bfe6c8ca53fe)
 
 ### Выводы
 
