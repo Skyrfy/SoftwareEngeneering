@@ -31,7 +31,7 @@
 
 ## 2 Настройка
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/profileGit.png)
+![Меню]([https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/profileGit.png](https://github.com/Skyrfy/SoftwareEngeneering/blob/3b158058a1a18c055740d0d1679f96994472f09d/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-09-11%20023149.png))
 
 ### Выводы
 
