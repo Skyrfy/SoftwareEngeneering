@@ -39,7 +39,7 @@
 
 ## 3 Создание нового репозитория
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/gitInit.png)
+![Меню](https://github.com/Skyrfy/SoftwareEngeneering/blob/d9a8d8c4f5cb23a7a25a8c8a5923ad820b2fe325/images/image.png)
 
 ### Выводы
 
