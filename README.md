@@ -55,8 +55,7 @@
 
 ## 5 Фиксация изменений
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/addStatusCommit.png)
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/gitLog.png)
+![Меню](https://github.com/Skyrfy/SoftwareEngeneering/blob/138433be52d0d237670e47f782a5b739c820981a/images/image.png)
 
 ### Выводы
 
