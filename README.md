@@ -121,7 +121,7 @@
 
 ## 13 Исправление коммита
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_1/images/edit.png)
+![image](https://github.com/user-attachments/assets/0dfcd984-64f2-40f2-9dda-4a33051d14ba)
 
 ### Выводы
 
